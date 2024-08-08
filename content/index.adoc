@@ -1,0 +1,5 @@
+author=@CCCP.education
+type=page
+date=2021-12-31
+status=published
+~~~~~~

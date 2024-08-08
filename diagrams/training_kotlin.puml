@@ -1,0 +1,64 @@
+@startmindmap
+'https://plantuml.com/mindmap-diagram
+
+caption Playground kotlin
+title Training - Playground kotlin
+
+* <&flag>Kotlin lang
+
+** <&globe>Environnement
+*** kotlinlang online
+*** sdkman
+*** jdk/jre
+*** gradle
+*** android studio
+
+** <&globe>Syntaxe
+*** Instructions & pseudo langage
+*** Expressions, Variables & Constants
+*** Types & Operations
+*** Nullabilité
+*** Control flow
+*** Imperative
+*** Orienté objet
+*** Boucles
+*** Function d'extension
+*** Fonctions
+**** paramètre
+**** valeur de retour
+**** paramètre valeur
+**** overloading(surcharge)
+**** variable function
+**** paramètre function
+**** retourner rien: Nothing
+** <&pulse>Programmation fonctionnelle
+*** Basiques fonctionnels
+**** Approche déclarative vs impérative(procédural)
+**** HOF: Higher-order functions
+**** Composition
+**** Fonctions pures et testabilité
+**** Gestion des exceptions
+*** Théorie des catégories
+*** Concepts fonctionnelles
+*** Expression, Evaluation & Laziness
+*** HOF fonction de premier ordre
+*** Immutabilité et récursivité
+** <&graph>Design pattern
+** <&people>Stream
+** <&star>Reactive
+** <&star>Threads et coroutines
+** <&star>Concurrence
+** <&star>Reactive microservices
+** <&star>Idioms et anti-pattern
+
+
+header
+    @cccp.education
+endheader
+
+center footer Trainings series
+
+legend right
+  Programmation et kotlin concepts
+endlegend
+@endmindmap

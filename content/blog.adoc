@@ -1,0 +1,6 @@
+author=@CCCP.education
+type=blog
+date=2022-01-31
+status=published
+~~~~~~
+
